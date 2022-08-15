@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there
 
-<!--
-**GabeeCoding/GabeeCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gabriel, but you can also call me Gabe. I am a hobbyist programmer and photographer.
 
-Here are some ideas to get you started:
+I started programming in 2016 using Scratch, throughout this time I have learned:
+- HTML
+- CSS (a little bit)
+- JavaScript
+- TypeScript
+- Lua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach out to me on Discord (Gabe1445#3766) or by email.
+
+Thanks for reading
