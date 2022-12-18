@@ -1,6 +1,6 @@
 ### Hello there
 
-My name is Gabriel, but you can also call me Gabe. I am a hobbyist programmer and photographer.
+My name is Gabriel, but you can also call me Gabe. I am a hobbyist programmer.
 
 I started programming in 2016 using Scratch, throughout this time I have learned:
 - HTML
